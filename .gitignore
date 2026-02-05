@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Secrets
+twitter_token.txt
+slack_webhook.txt
+
+# Database
+social_monitor.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
